@@ -10,5 +10,5 @@ step 2: move the file in your wamp folder (C:\wamp64\www)
 
 step 3: run and use the system
 
-- A portfolio website presents your professionalism and dedication to the craft better and more clearly than any CV. You don’t just tell, you show actual cases and examples which speak volumes. Moreover, owing to the portfolio website, you can show your mature and sophisticated approach to selling your work along with yourself.
+A portfolio website presents your professionalism and dedication to the craft better and more clearly than any CV. You don’t just tell, you show actual cases and examples which speak volumes. Moreover, owing to the portfolio website, you can show your mature and sophisticated approach to selling your work along with yourself.
 
